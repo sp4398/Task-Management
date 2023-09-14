@@ -1,0 +1,17 @@
+.title,
+.desc,
+.date{
+    font-size: medium;
+    width: 100%;
+    max-width: 40rem;
+    margin: 0.5rem;
+    padding: 0.5rem 1rem;
+    color: white;
+    border: none;
+    border-radius: 0.5rem;
+    background: rgb(40, 40, 40);
+}
+
+.todo{
+    margin-right: 2rem;
+}

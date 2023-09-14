@@ -1,0 +1,9 @@
+.todotask{
+    margin-left: 8rem;
+}
+
+.buttons{
+    display: flex;
+    flex-direction: column;
+    width: 8rem;
+}
